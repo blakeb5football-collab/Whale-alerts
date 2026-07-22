@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "tradingview": {
+      "command": "C:\\Users\\blake\\.local\\bin\\uvx.exe",
+      "args": [
+        "--from",
+        "tradingview-mcp-server",
+        "--python",
+        "3.13",
+        "tradingview-mcp"
+      ]
+    }
+  }
+}
